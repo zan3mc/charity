@@ -64,19 +64,11 @@
     text-align: center;
 }
 
-section h2 {
+.s-heading {
     margin-top: 0;
     justify-content: center;
     text-align: center;
 }
-
-footer {
-    background-color: #ffffff00;
-    color: rgb(0, 0, 0);
-    text-align: end;
-    position: fixed;
-}
-
 
 .donate {
     margin-left: auto;
